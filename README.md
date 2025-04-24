@@ -8,8 +8,10 @@ This is a calculator app that allows you to perform mathematical calculations ju
 
 
 Demo
-
+Check out the live link
 http://foonie.github.io/Calculator_app/
+
+
 <img width="580" alt="Screenshot 2025-04-24 at 22 01 39" src="https://github.com/user-attachments/assets/56c24859-f0f4-4ea0-b144-d7f3e0eb1ed9" />
 
 
